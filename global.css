@@ -59,7 +59,7 @@ body{
     background-position: 50% 50%;
 }
 
-#part2 #badge1 h2 {
+#part2 h2 {
     color: #394B63;
     font-weight: normal;
     padding: 0px 30px;
@@ -67,9 +67,9 @@ body{
     text-align: center;
 }
 
-.track img{
+.track img {
     position: relative;
-    left: 106px;
+    left: 95px;
     margin: 20px auto;
 }
 
@@ -85,3 +85,22 @@ body{
 #part1 {
     padding-bottom: 50px;
 }
+
+#part2 h3 {
+    color: #6F8F45;
+    padding: 0px 30px;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    right: 5px;
+}
+
+.line-separator {
+    background: #717171;
+    border-bottom: 1px solid #717171;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
