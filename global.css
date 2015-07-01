@@ -6,7 +6,7 @@ body{
 }
 
 
-#img1 {
+#part1 #title1 #img1 {
     background-color: #2B4846;
     height: 55px;
 }
@@ -16,7 +16,7 @@ body{
     height:55px;
 }
 
-div#aiga {
+#part1 #aiga {
     background-color: #526462;
     height: 72px;
     position: relative;
@@ -24,22 +24,27 @@ div#aiga {
 }
 
 
-img#img3 {
+#part1 #aiga #img3 {
     position: relative;
     left: 55px;
     top: 7px;
 }
 
-#register1 {
+#part1 #register1 {
     color: #6b797f;
     font: 20px "Rokkitt", Helvetica, Arial, sans-serif;
     position: relative;
     top: 70px;
 }
 
-#register1 h2 {
+#part1 #register1 h2 {
     color: #394B63;
     font-weight:100;
     padding:0px 30px;
     font-size:28px;
+}
+
+#part1 #register1 p {
+    padding: 20px 32px;
+    line-height: 2;
 }
