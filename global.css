@@ -39,12 +39,49 @@ body{
 
 #part1 #register1 h2 {
     color: #394B63;
-    font-weight:100;
-    padding:0px 30px;
-    font-size:28px;
+    font-weight: normal;
+    padding: 0px 30px;
+    font-size: 28px;
 }
 
 #part1 #register1 p {
     padding: 20px 32px;
     line-height: 2;
+    font-size: 16px;
+}
+
+.dash {
+    background-image: url("assets/part2/dash-horizontal.png");
+    background-repeat: repeat-x;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 10px;
+    background-position: 50% 50%;
+}
+
+#part2 #badge1 h2 {
+    color: #394B63;
+    font-weight: normal;
+    padding: 0px 30px;
+    font-size: 28px;
+    text-align: center;
+}
+
+.track img{
+    position: relative;
+    left: 106px;
+    margin: 20px auto;
+}
+
+.track ul{
+    list-style-type: none;
+    color: #88511C;
+    line-height: 2;
+    text-align: center;
+    display: inline;
+    font-size:15px;
+}
+
+#part1 {
+    padding-bottom: 50px;
 }
