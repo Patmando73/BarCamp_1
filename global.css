@@ -1,0 +1,45 @@
+body{
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    padding:0px;
+    margin:0px;
+    color: #3C514F;
+}
+
+
+#img1 {
+    background-color: #2B4846;
+    height: 55px;
+}
+
+#part1 #title1{
+    background-color:#2C4947;
+    height:55px;
+}
+
+div#aiga {
+    background-color: #526462;
+    height: 72px;
+    position: relative;
+    bottom: 4px;
+}
+
+
+img#img3 {
+    position: relative;
+    left: 55px;
+    top: 7px;
+}
+
+#register1 {
+    color: #6b797f;
+    font: 20px "Rokkitt", Helvetica, Arial, sans-serif;
+    position: relative;
+    top: 70px;
+}
+
+#register1 h2 {
+    color: #394B63;
+    font-weight:100;
+    padding:0px 30px;
+    font-size:28px;
+}
